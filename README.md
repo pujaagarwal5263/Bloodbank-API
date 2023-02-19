@@ -5,7 +5,7 @@ This is a complete RBAC system to manage blood distribution across receivers and
 1. `Receiver` 
 2. `Hospital`
 
-<strong> Authentication </strong>
+<strong> Authentication </strong> \
 `JWT` authentication has been implemented.
 
 # How to start project? 
